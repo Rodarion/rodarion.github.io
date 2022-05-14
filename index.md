@@ -7,6 +7,12 @@
     <title>Document</title>
 </head>
 <body>
-    test
+    <h1>Test</h1>
 </body>
 </html>
+
+<style>
+    body {
+        background-color:red;
+    }
+</style>
